@@ -16,7 +16,7 @@ If you are interested in creating your own website with your own styles, you can
 * Cross-platform support. We have an exe version that runs natively on Windows and with Mono it can also run on Linux and macOS.
 * Integration with Visual Studio. You can seamlessly use *DocFX* within Visual Studio.
 * Markdown extensions. We introduced *DocFX Flavored Markdown(DFM)* to help you write API documentation. DFM is *100%* compatible with *GitHub Flavored Markdown(GFM)* with some useful extensions, like *file inclusion*, *code snippet*, *cross reference*, and *yaml header*.
-For a detailed description about DFM, please refer to [DFM](../spec/docfx_flavored_markdown.md).
+For a detailed description of DFM, please refer to [DFM](../spec/docfx_flavored_markdown.md).
 
 > [!Warning]
 > **Prerequisites** [Visual Studio 2019](https://www.visualstudio.com/downloads/) is needed for `docfx metadata` msbuild projects. It's not required when generating metadata directly from source code (`.cs`, `.vb`) or assemblies (`.dll`)
